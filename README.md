@@ -1,4 +1,4 @@
-# taskicity-backend
+# ts-api-boilerplate
 
 To install dependencies:
 

@@ -1,5 +1,5 @@
 {
-  "name": "taskicity-backend",
+  "name": "ts-api-boilerplate",
   "module": "src/index.ts",
   "type": "module",
   "scripts": {
