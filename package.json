@@ -1,0 +1,16 @@
+{
+  "name": "ts-api-boilerplate-docs",
+  "module": "src/index.html",
+  "type": "module",
+  "scripts": {
+    "dev": "bun tailwindcss -i ./src/styles/tailwind.css -o ./src/styles/globals.css -c ./tailwind.config.js -w",
+    "build": "bun tailwindcss -i ./src/styles/tailwind.css -o ./src/styles/globals.css -c ./tailwind.config.js -m"
+  },
+  "devDependencies": {
+    "bun-types": "latest",
+    "tailwindcss": "^3.3.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
